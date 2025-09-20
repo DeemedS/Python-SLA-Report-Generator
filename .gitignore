@@ -1,0 +1,12 @@
+/__pycache__
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+env/
+venv/
+ENV/
+.venv/
+logs/
+outputs/
+config.ini
